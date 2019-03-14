@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/huobi-bit-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-ops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-ops-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-user-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huobi-bit-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mgt-finance-task" vcs="Git" />
+  </component>
+</project>

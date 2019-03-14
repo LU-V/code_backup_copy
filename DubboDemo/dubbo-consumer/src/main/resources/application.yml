@@ -1,0 +1,6 @@
+#consumer#
+server:
+  port: 8082
+  servlet:
+    context-path: /consumer
+  connection-timeout: 300000
